@@ -16,7 +16,7 @@ So on creating this project, a plain approach was needed. The images can be link
 
 Also, the small business would like to tell the customer where they are situated. So in this project, the about section would do exactly that- informing of the location.
 
-To round the this small project up, there is a contact form on the bottom, so the shop could be contacted
+To round the this small project up, there is a contact form on the bottom, so the shop could be contacted[^1]
 
 [^1]: Disclaimer: This is an example of the type of work I can do.
 
